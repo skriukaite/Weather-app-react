@@ -1,0 +1,16 @@
+.CurrentInfo {
+  width: 50%;
+  box-sizing: border-box;
+  display: block;
+}
+.section-current-temperature {
+  color: #226089;
+}
+.current-city {
+  color: #e3c4a8;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.current-time {
+  color: #226089;
+}

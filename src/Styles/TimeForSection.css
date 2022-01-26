@@ -1,0 +1,11 @@
+.time-for-icon {
+  display: block;
+  width: 150px;
+  margin: 0 auto;
+}
+.time-for {
+  text-align: center;
+  color: #226089;
+  font-weight: 800;
+  font-size: 17px;
+}

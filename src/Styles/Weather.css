@@ -1,0 +1,21 @@
+.Weather {
+  list-style-type: none;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.current-temperature {
+  font-size: 135px;
+  font-weight: 450;
+  color: #4592af;
+  text-align: center;
+  margin-left: 0;
+}
+.current-weather-icon {
+  font-size: 60px;
+  color: #4592af;
+}
+.temperature-properties {
+  padding-bottom: 28px;
+}

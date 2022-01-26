@@ -1,0 +1,7 @@
+.card {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+  padding-bottom: 40px;
+  margin: 0 auto;
+}

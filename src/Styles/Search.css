@@ -1,0 +1,31 @@
+.Search {
+  width: 50%;
+  box-sizing: border-box;
+  display: block;
+}
+.form {
+  text-align: left;
+  color: #4592af;
+  width: 100%;
+  display: block;
+  box-sizing: border-box;
+}
+
+.search-button {
+  background-color: #4592af;
+  opacity: 0.7;
+  border-radius: 0px;
+  color: whitesmoke;
+  font-weight: bolder;
+  border-style: none;
+  padding: 3px 10px;
+}
+
+.list {
+  color: #4592af;
+  line-height: 1.5;
+  list-style-type: none;
+  padding-left: 0;
+  text-align: left;
+  font-size: 0.9rem;
+}

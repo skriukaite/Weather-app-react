@@ -1,0 +1,14 @@
+.section-forecast {
+  color: #226089;
+  text-align: center;
+  line-height: 2;
+}
+.forecast-temperature {
+  letter-spacing: 0.2rem;
+  text-align: center;
+}
+.weather-icon {
+  font-size: 35px;
+  color: #4592af;
+  opacity: 0.5;
+}
