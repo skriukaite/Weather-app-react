@@ -27,6 +27,7 @@ export default function Search() {
     event.preventDefault();
     setCity(event.target.value);
   }
+
   return (
     <div className="Search">
       <form className="form" onSubmit={handleSearch}>
