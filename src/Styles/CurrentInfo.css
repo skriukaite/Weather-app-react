@@ -2,6 +2,8 @@
   width: 50%;
   box-sizing: border-box;
   display: block;
+  line-height: 1;
+  padding-bottom: 15px;
 }
 .section-current-temperature {
   color: #226089;
