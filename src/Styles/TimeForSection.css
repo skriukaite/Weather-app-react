@@ -1,6 +1,11 @@
+.TimeForSection {
+  width: 50%;
+  box-sizing: border-box;
+  display: block;
+}
 .time-for-icon {
   display: block;
-  width: 150px;
+  width: 70%;
   margin: 0 auto;
 }
 .time-for {
