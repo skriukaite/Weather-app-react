@@ -26,6 +26,16 @@ export default function App() {
             <Forecast />
           </div>
         </div>
+        <p className="Git-link">
+          Coded by Sandra Kriukaitė, view code on{" "}
+          <a
+            href="https://github.com/skriukaite/Weather-app-react"
+            target="__blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+        </p>
       </div>
     </div>
   );
