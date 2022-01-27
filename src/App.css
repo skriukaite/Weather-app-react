@@ -16,3 +16,8 @@
   display: flex;
   flex-direction: row;
 }
+
+.visuals-section {
+  display: flex;
+  flex-direction: row;
+}

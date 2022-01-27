@@ -19,8 +19,10 @@ export default function App() {
               <Search />
               <CurrentInfo />
             </div>
-            <Weather />
-            <TimeForSection />
+            <div className="visuals-section">
+              <Weather />
+              <TimeForSection />
+            </div>
             <Forecast />
           </div>
         </div>
