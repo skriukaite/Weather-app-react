@@ -13,7 +13,7 @@ export default function Weather() {
             </div>
           </div>
           <div className="col-3 temperature-properties">
-            <ul className="Weather">
+            <ul className="Weather-icon">
               <li>
                 <i className="fas fa-cloud-sun current-weather-icon"></i>
               </li>

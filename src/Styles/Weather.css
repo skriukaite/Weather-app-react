@@ -1,10 +1,15 @@
 .Weather {
+  width: 50%;
+  box-sizing: border-box;
+  display: block;
+}
+
+.Weather li {
   list-style-type: none;
   text-align: left;
   font-size: 15px;
-  padding-left: 30px;
-  padding-top: 30px;
 }
+
 .current-temperature {
   font-size: 135px;
   font-weight: 450;
